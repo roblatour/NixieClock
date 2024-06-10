@@ -9,3 +9,6 @@ If you want your own images for other purposes, you can license them from vector
 
 printable enclosures are the same except to the spacing between the posts for mounting the esp board; check your board before deciding which enclosure to print
 
+## Support
+
+[<img alt="buy me  a coffee" width="200px" src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" />](https://www.buymeacoffee.com/roblatour)
